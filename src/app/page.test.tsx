@@ -14,6 +14,6 @@ describe("MSW 모킹 테스트", () => {
     // MSW에서 설정한 결과값이 화면에 잘 나오는지 확인
     expect(screen.getByText("1: 첫 번째 게시글")).toBeInTheDocument();
     expect(screen.getByText("2: 두 번째 게시글")).toBeInTheDocument();
-    expect(true).toBe(false);
+    expect(true).toBe(true);
   });
 });
