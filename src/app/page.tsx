@@ -1,4 +1,4 @@
-// src/app/page.tsx
+// src/app/page.tsx action 테스트
 
 "use client";
 
