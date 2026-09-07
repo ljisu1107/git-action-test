@@ -1,0 +1,5 @@
+// src/plugins/next-mocks/alias/rsc/server-only.ts
+var server_only_default = {};
+export {
+  server_only_default as default
+};
